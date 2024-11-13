@@ -16,7 +16,7 @@ app.use(
     origin: "*",
     credentials: true,
   })
-);
+);   
 
 // Database
 connectDB();
